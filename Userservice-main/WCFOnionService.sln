@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28701.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFOnionService.Domain", "Domain\WCFOnionService.Domain.csproj", "{D1A1A1A1-1111-1111-1111-111111111111}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFOnionService.Application", "Application\WCFOnionService.Application.csproj", "{D2A2A2A2-2222-2222-2222-222222222222}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFOnionService.Infrastructure", "Infrastructure\WCFOnionService.Infrastructure.csproj", "{D3A3A3A3-3333-3333-3333-333333333333}"
+EndProject
+Project("{349C5851-65DF-11DA-9384-00065B846F21}") = "WCFOnionService.Presentation", "Presentation\WCFOnionService.Presentation.csproj", "{14C6E04C-560D-4F63-A1DD-50AC775F6EFC}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {D1A1A1A1-1111-1111-1111-111111111111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {D1A1A1A1-1111-1111-1111-111111111111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {D2A2A2A2-2222-2222-2222-222222222222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {D2A2A2A2-2222-2222-2222-222222222222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {D3A3A3A3-3333-3333-3333-333333333333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {D3A3A3A3-3333-3333-3333-333333333333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {14C6E04C-560D-4F63-A1DD-50AC775F6EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {14C6E04C-560D-4F63-A1DD-50AC775F6EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+    EndGlobalSection
+EndGlobal

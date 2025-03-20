@@ -1,0 +1,6 @@
+C:\Users\Aleena\Desktop\PROJECT\UserCRUDOperations\WCFOnionService\Domain\bin\Debug\WCFOnionService.Domain.dll
+C:\Users\Aleena\Desktop\PROJECT\UserCRUDOperations\WCFOnionService\Domain\bin\Debug\WCFOnionService.Domain.pdb
+C:\Users\Aleena\Desktop\PROJECT\UserCRUDOperations\WCFOnionService\Domain\obj\Debug\WCFOnionService.Domain.csproj.AssemblyReference.cache
+C:\Users\Aleena\Desktop\PROJECT\UserCRUDOperations\WCFOnionService\Domain\obj\Debug\WCFOnionService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Aleena\Desktop\PROJECT\UserCRUDOperations\WCFOnionService\Domain\obj\Debug\WCFOnionService.Domain.dll
+C:\Users\Aleena\Desktop\PROJECT\UserCRUDOperations\WCFOnionService\Domain\obj\Debug\WCFOnionService.Domain.pdb
